@@ -1,3 +1,7 @@
+# DEPRECATED [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
+This repository is now deprecated and it will be available until 01.06.2021.
+
 # Athena PHP Plugin [![Build Status](https://travis-ci.org/athena-oss/plugin-php.svg?branch=master)](https://travis-ci.org/athena-oss/plugin-php)
 
 Athena PHP Plugin is a plugin for [Athena](https://github.com/athena-oss/athena), that provides a PHP environment for you to execute and create different types of tests, and provides a fluent interface to short-cut and ease test development for PHP.
